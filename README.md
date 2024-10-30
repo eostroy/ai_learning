@@ -13,7 +13,7 @@
 
 找到
 ```python
-    client = OpenAI(
+client = OpenAI(
     api_key="your_api_key",
     base_url="https://api.deepseek.com"
 )
