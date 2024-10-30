@@ -2,7 +2,7 @@ from openai import OpenAI
 import os
 
 client = OpenAI(
-    api_key="sk-71ffb35e193e46d8acbb2817617e9401",
+    api_key="your_api_key",
     base_url="https://api.deepseek.com"
 )
 
@@ -39,7 +39,7 @@ def get_documents_from_directory(directory):
     return documents
 
 if __name__ == "__main__":
-    directory = r'C:\Users\15332\Desktop\data_processing'
-    topic = "the overseas influence or discussions of traditional Chinese medicine (TCM) itself, how people overseas think of it"
+    directory = r'local_file_path'
+    topic = "the overseas acceptance of traditional Chinese medicine (TCM); how non-Chinese people think of traditional Chinese medicine"
     documents = get_documents_from_directory(directory)
     results = check_documents_relevance(documents, topic)
