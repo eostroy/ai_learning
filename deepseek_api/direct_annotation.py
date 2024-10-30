@@ -51,10 +51,14 @@ def analyze_sentences(doc_path, content):
             {
                 "role": "user",
                 "content": (
-                    "According to Martin's Appraisal Theory, classify the following sentences into one of the three dimensions: "
+                    "According to Martin's Appraisal Theory, classify the following sentence into one of the three dimensions: "
                     "'affect', 'judgment', or 'appreciation'. "
-                    "Then, identify the words and phrases that contribute most to this classification. "
+                    "For 'affect', specify whether it belongs to 'un/happiness', 'dis/satisfaction', 'in/security', and/or 'dis/inclination'."
+                    "For 'judgment', specify whether it belongs to normality, capacity, tenacity, propriety, veracity, and/or unclear."
+                    "For 'appreciation', specify whether it belongs to reaction, composition, and/or social-valuation."
+                    "Then, identify the words and phrases that contribute most to the classification. "
                     "It is allowed to provide more than one dimension, word and/or phrase."
+                    "It is also allowed to provide no dimension if none of the dimensions can be related to the sentence."
                     "Provide the dimension(s) and the most significant words and/or praises only.\n\n"
                     f"Sentence:\n{sentence}"
                 )
