@@ -1,3 +1,4 @@
+# 执行此程序，将对文件判断话题相关性
 from openai import OpenAI
 import os
 
