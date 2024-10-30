@@ -1,8 +1,9 @@
+# 执行此程序，将获得较长的分析
 import os
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="sk-71ffb35e193e46d8acbb2817617e9401",
+    api_key="your_api_key",
     base_url="https://api.deepseek.com"
 )
 
@@ -77,7 +78,7 @@ def get_documents_from_directory(directory):
     return documents
 
 if __name__ == "__main__":
-    directory = r'C:\Users\15332\Desktop\data_processing\test'
+    directory = r'local_folder_path'
     topic = "the overseas acceptance of traditional Chinese medicine (TCM); how non-Chinese people think of it"
     documents = get_documents_from_directory(directory)
     results = check_documents_relevance(documents, topic)
