@@ -4,6 +4,11 @@
 
 ### text_dividing使用方法
 
+首先需要安装`nltk`库：
+```python
+    pip install nltk
+```
+
 找到主程序入口`if __name__ == "__main__"`中的
 
 ```python
@@ -17,6 +22,12 @@
 那么所有的篇章`article_n`都会位于`C:\Users\15332\Desktop\data_processing`文件夹中，因此请在执行脚本前，将其放在单独的文件夹中。同时，每次执行脚本都会复写先前的结果。
 
 ### deepseek_api使用方法
+
+首先需要安装`openai`库：
+
+```python
+    pip install openai
+```
 
 找到
 
