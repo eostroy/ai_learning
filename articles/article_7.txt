@@ -1,0 +1,20 @@
+Article Number: 7
+AI turns doctor, detects diseases with 98% accuracy by analysing tongue colour as per Chinese medicine practice
+New Delhi, Aug. 18 -- Researchers from Iraq and Australia claim they've created an artificial intelligence (AI) computer algorithm capable of analysing tongue colour to diagnose medical conditions in real time, boasting 98% accuracy.
+According to the study led by Ali Al-Naji, affiliated with universities in Baghdad and Australia, individuals with diabetes usually exhibit a yellow tongue while cancer patients often have a purple tongue with a thick coating.
+Those suffering from acute strokes tend to have an oddly shaped red tongue.
+Al-Naji explained that certain tongue colours might reveal various health issues.
+The imaging system is inspired by a traditional Chinese practice of analysing the tongue to detect illnesses, he said.
+"A white tongue can indicate anaemia; people with severe cases of COVID-19 are likely to have a deep-red tongue.
+An indigo- or violet-coloured tongue indicates vascular and gastrointestinal issues or asthma," the New York Post quoted Al-Naji as saying.
+Researchers utilised over 5,200 images to train the AI model to recognise tongue colour and related health conditions.
+The model was tested using 60 tongue images from two hospitals in the Middle East.
+During the tests, patients positioned themselves roughly 8 inches from a laptop's webcam, which captured a picture of their tongue.
+The program successfully identified the disease in nearly all instances.
+Professor Javaan Chahl from the University of South Australia suggested that the technology could soon be integrated into a smartphone app to help diagnose various health issues like diabetes, stroke, anaemia, asthma and other conditions, the publication added.
+He highlights that computerised tongue analysis offers a reliable, easy-to-use, cost-effective approach to screening diseases, combining modern technology with traditional practices.
+As per WebMD, if someone notices a furry-looking coating on their tongue in black, brown or white, they could be dealing with a condition called "hairy" tongue.
+In this condition, proteins cause tiny bumps on the tongue to grow longer, trapping food and bacteria.
+Brushing or scraping the tongue usually resolves it.
+However, if there are white patches that don't come off with scraping, it could indicate oral hairy leukoplakia, which may be linked to viral infections such as Epstein-Barr or HIV.
+Published by HT Digital Content Services with permission from MINT.
