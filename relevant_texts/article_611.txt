@@ -1,0 +1,51 @@
+Article Number: 611
+Shaping the future of healthcare with digitalisation and innovation: New digital health solutions can cater to a rapidly ageing population or provide better patient experience and care.
+Lok, Audrey.
+DIGITALISATION has changed the way businesses work across many sectors, including the healthcare industry.
+In China, we see the rise of "Internet hospitals", where patients can gain access to doctors, lab reports and personal health records through a single app.
+Many chronic and mental diseases, which require behavioural monitoring and coaching, can now also be addressed via new digital health solutions.
+In Singapore, healthcare companies are similarly tapping new technologies and business models, be it to cater to the rapidly ageing population, or to provide better patient experience and care.
+For instance, mental health diagnosis traditionally takes place as a means for curative interventions.
+Due to the stigma attached to such illnesses, patients and caregivers typically only seek help when symptoms are severe.
+Today, with Covid-19 and work-from-home practices, there is a growing focus and awareness on mental health.
+Startups such as Neurowyzer are also riding on the wave to change the way individuals approach mental health.
+Through close collaboration with clinical partners such as the National Neuroscience Institute, Neurowyzer developed a suite of brain health screening and monitoring tools to track and monitor users' mental wellness in real-time.
+These also provide recommendations for at-risk areas, ranging from behavioural, dietary advice to psychologist consultations for more serious cases.
+This encouraged individuals to take a more preventive approach.
+Real-time tracking provides alerts to at-risk individuals who may be developing mental illness.
+These users are then connected to the company's in-house psychologists.
+This closes the gap between patient and provider, enables better management of mental health, and helps to overcome the stigma around mental illness.
+Currently, Neurowyzer's brain health screening tool has attained Health Sciences Authority registration, and is deployed in trials with local and overseas clinical partners.
+Besides these medical areas, the traditional chinese medicine (TCM) sector is also applying digitalisation.
+Eu Yan Sang challenged the conventional approach for TCM by embracing digitalisation to extend the services of their physical clinics to reach out to more patients.
+It sells its products via online platforms and mobile apps, and ramped these up during the pandemic given consumers' behavioural changes.
+They also started to offer teleconsulting and prescription delivery services for patients.
+Such digital initiatives enabled Eu Yan Sang to deliver uninterrupted medical services during the pandemic.
+Launched in 2020, its TCM advisor platform AskSinSeh.sg also recorded a spike in website traffic exceeding 320 per cent during the Circuit Breaker period that year.
+Innovation is here to stay
+The demand for digitalised healthcare services will continue to grow in Singapore.
+According to a 2021 survey by Marsh McLennan, 58 per cent of respondents find the vision of digital health exciting.
+However, for the industry to grow, digitalisation cannot be the only solution for businesses.
+Innovation needs to kick in.
+One advantage is that healthcare organisations have always recognised the need to look at new research and innovation to push the frontiers of patient care.
+The current challenge lies with the commercialisation process in the biomedical sector being long, complex and capital-intensive.
+Therefore, the right partnerships, resources and commercialisation support is important in ensuring that good ideas have the best chance of success.
+Such partnerships will allow hospitals to focus on providing clinical expertise, while leaving the commercialisation support to the industry.
+Take the Healthcare Open Innovation Challenge as an example.
+Enterprise Singapore (ESG), in partnership with 5 of Singapore's public and private healthcare providers - National Healthcare Group, National University Health System, SingHealth, HMI Group and St Luke's Eldercare - launched the challenge in November 2020.
+A total of 11 challenge statements and about 200 project submissions were received.
+Of these, 7 winners were shortlisted and they went on to co-develop their solutions with the problem statement owners in fields such as skin cancer diagnosis, fall prediction and prevention, patient engagement and experience.
+Riding on the digitalisation wave, HMI Group is partnering Singapore startup Medicia to co- develop a patient engagement platform for customised, seamless offline-online patient journey.
+This will be a big step for the HMI Group in providing personalised care to patients, which will enable them to deepen patient engagements and drive business growth in the long run.
+Healthcare providers are also working with solution providers to pilot new models of healthcare services.
+For example, Fullerton Healthcare partnered SmartRX to set up a teleconsultation kiosk paired with a vending machine to dispense prescribed medication.
+This also enabled Fullerton Healthcare to ease patients' inconvenience of visiting clinics for regular check-ups or delays in waiting for medication delivery.
+Beyond innovation efforts among the healthcare providers, startups are also leveraging digital and mobile platforms to provide innovative patient care models.
+Local care services provider Homage's personal care solution combines curated and trained care professionals with smart technology to manage and provide on-demand holistic home and community-based caregiving services to seniors and adults.
+Through its digital platform, Homage was able to provide services such as care assessments, home nursing procedures and home rehabilitation services (such as physiotherapy, speech therapy and occupational therapy), which were well received by consumers.
+As a result, Homage has rapidly expanded beyond Singapore to Malaysia and Australia, and now has a regional network of over 6,000 fully screened and trained care professionals on its platform.
+In September 2021, the company successfully raised US$30 million in Series C funding, making it one of the largest financing rounds raised by an on-demand care platform in the Asia-Pacific.
+Continuous transformation is key to ensuring that companies continue to stay relevant and seize new opportunities in a dynamic global environment.
+ESG has various assistance programmes in place to help these companies transform, be it to digitalise, innovate or build new capabilities.
+We encourage companies to adopt an open approach to change, so as to scale and expand into new markets.
+- The writer is director for health and biomedical at Enterprise Singapore.
