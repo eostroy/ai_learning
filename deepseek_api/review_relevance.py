@@ -41,6 +41,6 @@ def get_documents_from_directory(directory):
 
 if __name__ == "__main__":
     directory = r'local_file_path'
-    topic = "the overseas acceptance of traditional Chinese medicine (TCM); how non-Chinese people think of traditional Chinese medicine"
+    topic = "the overseas (outside China) acceptance of traditional Chinese medicine"
     documents = get_documents_from_directory(directory)
     results = check_documents_relevance(documents, topic)
